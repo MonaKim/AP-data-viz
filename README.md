@@ -23,8 +23,8 @@ To run this file
 1. after cloning the file, open it in Unity.
 2. and go to Build settings and set your device to IOS (I design this app for iphone 7 layout 750x1334 )
 3. In player settings, assign unique name to bundle identifier and change bundle name.
-4. and Build
-5. open xcode file from the file that you just created
+4. hit the Build button
+5. after built, open xcode file from the file that you just created
 6. check the bundle identifier and bundle name are correct as you name.
 7. for signing, log in with your apple account.
 8. connect your phone to computer, and set to change your device instead of generic ios device as default setup
