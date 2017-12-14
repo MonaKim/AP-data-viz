@@ -14,3 +14,8 @@ This study was about how immersive mediums affect user’s state-of-mind.
 
 The goals : 
 To compare the different reactions between devices and stories.   
+
+https://media.giphy.com/media/xT1R9SWkHYMa3j2qXe/source.mp4
+
+<img src="https://media.giphy.com/media/xT1R9SWkHYMa3j2qXe/200w_d.gif"></img>
+
