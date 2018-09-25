@@ -1,7 +1,8 @@
 # AP-data-viz
 
-Associated Press 
-“Immersive Engagement Study”
+Data Visualization
+
+“Immersive Engagement Study” with Associated Press
 This study was about how immersive mediums affect user’s state-of-mind.
  - 12 Participants 
  - different VR devices
