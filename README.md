@@ -12,6 +12,10 @@ This study was about how immersive mediums affect user’s state-of-mind.
  
  What is the project about?
      Visualize the testers’ motion data, and bio data 
+     
+       - participants had the highest levels of open-mindedness - being attracted to a topic, but not alarmed -
+         on the room-scale VR setting, while the cardboard elicited the highest level of stimulation, which is associated
+         with individuals being more attentive than they are relaxed.
 
 The goals : 
 To compare the different reactions between devices and stories.   
