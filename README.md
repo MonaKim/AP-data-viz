@@ -41,6 +41,7 @@ To compare the different reactions between devices and stories.
 For more details, please visit the links below
 Final slides - https://docs.google.com/presentation/d/1bsXC0tL6inGt-mQs-LRCfE_mXqu2cU-2iZishAec-IM/edit#slide=id.g2a3b456d1f_0_216
 demo video - https://www.youtube.com/watch?v=MCMU0-DdtUM
+https://vimeo.com/251728866
 
 <img src="https://media.giphy.com/media/xT1R9SWkHYMa3j2qXe/200w_d.gif" width = "400px" height="300px"></img>
 
